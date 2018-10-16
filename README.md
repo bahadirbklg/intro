@@ -1,7 +1,7 @@
 # Introduction to Deep Learning for Medical Researchers
 This repository contains a series of presentations, Google Colaboratory notebooks, and supporting code and provides an introduction to machine learning and deep learning tools and techniques. The material, created in collaboration with <a href="http://cetinkoc.net/">Prof. Çetin Kaya Koç</a>, was a short-course for medical researchers at İstinye University, Turkey. This class introduces basic and advanced techniques, with an emphasis on tools, model creation, and model validation.
 
-The course is split into 12 one-hour modules. All computation is done on the cloud using free Google Colaboratory notebooks and free/open-source software: Python and PyTorch. Contents include:
+The course is split into 11 one-hour modules. All computation is done on the cloud using free Google Colaboratory notebooks and free/open-source software: Python and PyTorch. Contents include:
 1. Introduction
 * Survey of recent medical applications  
 * Artificial Intelligence, Machine Learning, Deep Learning: terminology and history
