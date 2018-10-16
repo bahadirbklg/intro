@@ -44,7 +44,7 @@ The course is split into 11 one-hour modules. Contents include:
 6. Deep learning with PyTorch
 * Implement MLP with PyTorch
 * How to debug PyTorch
-* How to visualize the status of the training process
+* How to monitor the status of the training process
 * Other popular types of neural networks
 
 7. Convolutional neural networks
