@@ -65,6 +65,7 @@ Course contents include:
 10. Tuning neural networks
 * dev-train-test sets
 * How to design a custom network and prevent over-fitting
+* t-SNE visualization
 
 11. Research tools
 * Data collection and large datasets (HDF5)
