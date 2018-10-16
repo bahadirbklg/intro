@@ -52,7 +52,7 @@ The course is split into 11 one-hour modules. All computation is done on the clo
 * PyTorch implementation
 
 8. Image classification with CNNs
-* Examples where machine surpasses human
+* Examples where CNNs surpass humans
 * Adversarial examples which trick CNNs but are easy for humans
 * Examples of existing CNN models that can be used and modified
 * More detail on how to build and train custom models in PyTorch
