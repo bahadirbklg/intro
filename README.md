@@ -3,8 +3,8 @@ This repository contains a series of presentations, Google Colaboratory notebook
 
 The course is split into 11 one-hour modules. Contents include:
 1. Introduction
-* Survey of recent ML medical applications  
-* ML/AI history timeline
+* Survey of recent medical applications  
+* AI/Machine Learning/Deep Learning terminology and history
 * Overview of the rest of the class
 
 2. Introduction to Google Colaboratory and Python
