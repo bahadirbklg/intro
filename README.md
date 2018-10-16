@@ -47,6 +47,7 @@ The course is split into 12 one-hour modules. All computation is done on the clo
 8. Convolutional neural networks
 * Theory
 * PyTorch implementation
+* Data collection and large datasets (HDF5)
 
 9. Image classification with CNNs
 * Examples where CNNs surpass humans
@@ -63,8 +64,3 @@ The course is split into 12 one-hour modules. All computation is done on the clo
 * How to design a custom network and prevent over-fitting
 * t-SNE visualization
 * Attribution visualization
-
-12. Research tools
-* Data collection and large datasets (HDF5)
-* Using Google Cloud vs. buying GPUs
-* Further resources and some people to follow
