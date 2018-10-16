@@ -38,7 +38,7 @@ The course is split into 11 one-hour modules. All computation is done on the clo
 4. Introduction to neural networks
 * Linear vs. nonlinear functions
 * The perceptron
-* The so-called Multi-Layer Perceptron (MLP)
+* Multi-Layer Perceptron (MLP)
 * Review of Gradient Descent
 
 6. Deep learning with PyTorch
