@@ -70,3 +70,4 @@ The course is split into 11 one-hour modules. Contents include:
 11. Research tools
 * Data collection and large datasets (HDF5)
 * Using Google Cloud vs. buying GPUs
+* Further resources and people to follow
