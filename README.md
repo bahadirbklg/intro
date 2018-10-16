@@ -1,5 +1,5 @@
 # Introduction
-This repository contains a series of presentationa and Google Colaboratory notebooks which provide an introduction to practical and robust machine learning and deep learning techniques. This content was created for a short-course which will be given at İstinye University. The course's aim is to introducing medical researchers to practical tools.
+This repository contains a series of presentations and Google Colaboratory notebooks which provide an introduction to machine learning and deep learning tools and techniques. The material was created for a short-course for medical researchers at İstinye University. The intention of the material is to bring these researchers up to speed with basic and advanced techniques, with an emphasis on model creation and validation.
 
 Course contents include:
 1. Introduction
