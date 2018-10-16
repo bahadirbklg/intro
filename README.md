@@ -1,5 +1,5 @@
 # Introduction
-This repository contains a series of presentations, Google Colaboratory notebooks, and supporting code which provides an introduction to machine learning and deep learning tools and techniques. The material was created for a short-course for medical researchers at İstinye University. The intention of this class was to introduce these researchers to basic and advanced techniques, with an emphasis on model creation and validation.
+This repository contains a series of presentations, Google Colaboratory notebooks, and supporting code and provides an introduction to machine learning and deep learning tools and techniques. The material was created for a short-course for medical researchers at İstinye University. The intention of this class is to introduce these researchers to basic and advanced techniques, with an emphasis on model creation and validation.
 
 Course contents include:
 1. Introduction
@@ -20,10 +20,8 @@ Course contents include:
 
 3. Supervised techniques
 * Linear regression
-* Support vector machines
+* Linear disciminant analysis
 * Random forests
-* Examples with Python sci-kit learn
-* Examples with Python Matplotlib
 
 3. Unsupervised techniques and confidence estimation #1
 * K-Nearest Neighbors
@@ -32,19 +30,19 @@ Course contents include:
 * Cross-validation
 
 4. Confidence estimation #2
-* Confusion matrix
+* Confusion matrices
 * ROC curves
+* Interpolation and extrapolation
 * Curse of dimensionality 
 
 4. Introduction to neural networks
 * Linear vs. nonlinear functions
 * The perceptron
-* The so-called Multi-Layer Perceptron
-* Review of gradient descent
+* The so-called Multi-Layer Perceptron (MLP)
+* Review of Gradient Descent
 
 6. Deep learning with PyTorch
 * Implement MLP with PyTorch
-* How to read data
 * How to debug PyTorch
 * How to visualize the status of the training process
 * Other popular types of neural networks
@@ -58,14 +56,15 @@ Course contents include:
 * Adversarial examples which trick CNNs but are easy for humans
 * Examples of existing CNN models that can be used and modified
 * More detail on how to build and train custom models in PyTorch
+* Attribution visualization
 
 9. Image segmentation with CNNs
 * Examples of existing models that can be used
 * How to build and train your own models in PyTorch
 
 10. Tuning neural networks
-* dev-test training sets
-* How to design a (custom) network and prevent over-fitting
+* dev-train-test sets
+* How to design a custom network and prevent over-fitting
 
 11. Research tools
 * Data collection and large datasets (HDF5)
