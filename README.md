@@ -56,7 +56,6 @@ The course is split into 11 one-hour modules. Contents include:
 * Adversarial examples which trick CNNs but are easy for humans
 * Examples of existing CNN models that can be used and modified
 * More detail on how to build and train custom models in PyTorch
-* Attribution visualization
 
 9. Image segmentation with CNNs
 * Examples of existing models that can be used
@@ -66,6 +65,7 @@ The course is split into 11 one-hour modules. Contents include:
 * dev-train-test sets
 * How to design a custom network and prevent over-fitting
 * t-SNE visualization
+* Attribution visualization
 
 11. Research tools
 * Data collection and large datasets (HDF5)
