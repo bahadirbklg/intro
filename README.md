@@ -62,7 +62,7 @@ The course is split into 11 one-hour modules. Contents include:
 * Examples of existing models that can be used
 * How to build and train your own models in PyTorch
 
-10. Tuning neural networks
+10. Advanced network training and validation
 * dev-train-test sets
 * How to design a custom network and prevent over-fitting
 * t-SNE visualization
